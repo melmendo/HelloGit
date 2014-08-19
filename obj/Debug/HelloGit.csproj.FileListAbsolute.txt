@@ -34,3 +34,5 @@ c:\users\melmendo\documents\visual studio 2013\Projects\HelloGit\HelloGit\bin\Sy
 c:\users\melmendo\documents\visual studio 2013\Projects\HelloGit\HelloGit\obj\Debug\HelloGit.dll
 c:\users\melmendo\documents\visual studio 2013\Projects\HelloGit\HelloGit\obj\Debug\HelloGit.pdb
 c:\users\melmendo\documents\visual studio 2013\Projects\HelloGit\HelloGit\obj\Debug\HelloGit.csprojResolveAssemblyReference.cache
+c:\users\melmendo\documents\visual studio 2013\Projects\HelloGit\HelloGit\bin\Elmah.dll
+c:\users\melmendo\documents\visual studio 2013\Projects\HelloGit\HelloGit\bin\Elmah.Mvc.dll
