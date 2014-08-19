@@ -1,0 +1,12 @@
+#################
+## IGNORE FILE
+#################
+
+*.sln
+*.suo
+*.user
+*.Debug.config
+*.Release.config
+*.csproj
+*.pdb
+*.cache
