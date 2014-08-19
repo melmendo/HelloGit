@@ -33,3 +33,4 @@ c:\users\melmendo\documents\visual studio 2013\Projects\HelloGit\HelloGit\bin\Sy
 c:\users\melmendo\documents\visual studio 2013\Projects\HelloGit\HelloGit\bin\System.Web.WebPages.Razor.xml
 c:\users\melmendo\documents\visual studio 2013\Projects\HelloGit\HelloGit\obj\Debug\HelloGit.dll
 c:\users\melmendo\documents\visual studio 2013\Projects\HelloGit\HelloGit\obj\Debug\HelloGit.pdb
+c:\users\melmendo\documents\visual studio 2013\Projects\HelloGit\HelloGit\obj\Debug\HelloGit.csprojResolveAssemblyReference.cache
